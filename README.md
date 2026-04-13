@@ -1,5 +1,6 @@
 # Ramon 👋
-🎓 Estudante de Sistemas de Informação
+🎓 Técnico em Desenvolvimento de Sistemas (Colégio Técnico de Limeira · Unicamp)
+🎓 Bacharelando em Sistemas de Informação (FHO | Fundação Hermínio Ometto)
 💻 Desenvolvedor Backend (Java · Spring Boot 3)
 📱 Experiência com Flutter
 
@@ -7,11 +8,15 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor focado em backend, com experiência em APIs REST, integração com banco de dados e desenvolvimento mobile com Flutter. Estou em busca de oportunidades como **estagiário ou desenvolvedor júnior** para aplicar e expandir minha experiência em projetos reais.
+Desenvolvedor focado em backend, com experiência em APIs REST, integração com banco de dados e desenvolvimento mobile com Flutter. Atuei no desenvolvimento de um Sistema de Estoque em Tempo Real, participando de todo o ciclo: levantamento de requisitos, modelagem, implementação e integração via API.
+
+Busco minha primeira oportunidade em desenvolvimento de software, com foco em **aprendizado rápido, entrega consistente e evolução técnica contínua**.
 
 ---
 
 ## 🧠 Tecnologias
+
+**Uso prático:**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -21,7 +26,12 @@ Desenvolvedor focado em backend, com experiência em APIs REST, integração com
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-🌱 **Atualmente aprendendo:** Python · JavaScript
+**Contato acadêmico:**
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ---
 
@@ -29,7 +39,7 @@ Desenvolvedor focado em backend, com experiência em APIs REST, integração com
 
 ### 📦 Sistema de Estoque em Tempo Real
 
-Controle de estoque com atualização em tempo real, integrando uma API backend em Java com app mobile Flutter. Permite cadastro de produtos, movimentações e visualização instantânea do estoque.
+Controle de estoque com atualização em tempo real, integrando uma API backend em Java com app mobile Flutter. Participei de todo o ciclo do projeto: levantamento de requisitos, modelagem, implementação e integração via API, com backend conectado a banco de dados.
 
 **Tecnologias:** Spring Boot 3 · MySQL · JPA/Hibernate · Flutter
 
