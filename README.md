@@ -49,12 +49,6 @@ Controle de estoque com atualização em tempo real, integrando uma API backend 
 
 ---
 
-## 🔥 Consistência
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ramon-lopes&locale=pt_BR&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ## 📫 Contato
 
 📧 lopesramon723@gmail.com  
