@@ -10,7 +10,7 @@
 
 Desenvolvedor focado em backend, com experiência em APIs REST, integração com banco de dados e desenvolvimento mobile com Flutter. Atuei no desenvolvimento de um Sistema de Estoque em Tempo Real, participando de todo o ciclo: levantamento de requisitos, modelagem, implementação e integração via API.
 
-Busco minha primeira oportunidade em desenvolvimento de software, com foco em **aprendizado rápido, entrega consistente e evolução técnica contínua**.
+Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior**, com foco em aprendizado rápido, entrega consistente e evolução técnica contínua.
 
 ---
 
