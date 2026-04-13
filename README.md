@@ -1,7 +1,7 @@
 # Ramon 👋
 🎓 Técnico em Desenvolvimento de Sistemas (Colégio Técnico de Limeira · Unicamp)
 🎓 Bacharelando em Sistemas de Informação (FHO | Fundação Hermínio Ometto)
-💻 Desenvolvedor Backend (Java · Spring Boot 3)
+💻 Desenvolvedor Backend (Java | Spring Boot )
 📱 Experiência com Flutter
 
 ---
@@ -41,7 +41,7 @@ Busco minha primeira oportunidade em desenvolvimento de software, com foco em **
 
 Controle de estoque com atualização em tempo real, integrando uma API backend em Java com app mobile Flutter. Participei de todo o ciclo do projeto: levantamento de requisitos, modelagem, implementação e integração via API, com backend conectado a banco de dados.
 
-**Tecnologias:** Spring Boot 3 · MySQL · JPA/Hibernate · Flutter
+**Tecnologias:** Spring Boot | MySQL | JPA/Hibernate | Flutter
 
 🔗 [API (Spring Boot)](https://github.com/ramon-lopes/estoque-api-backend) · [App Mobile (Flutter)](https://github.com/ramon-lopes/app-mgr-software)
 
