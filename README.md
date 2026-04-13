@@ -37,7 +37,7 @@ Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior**,
 
 ---
 
-## 📦 Projetos
+## 📁 Projetos
 
 ### 📦 Sistema de Estoque em Tempo Real
 
