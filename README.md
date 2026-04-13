@@ -33,7 +33,7 @@ Controle de estoque com atualização em tempo real, integrando uma API backend 
 
 **Tecnologias:** Spring Boot 3 · MySQL · JPA/Hibernate · Flutter
 
-🔗 [API (Spring Boot)]([https://github.com/ramon-lopes/seu-repo-api](https://github.com/ramon-lopes/estoque-api-backend.git)) · [App Mobile (Flutter)]([https://github.com/ramon-lopes/seu-repo-app](https://github.com/ramon-lopes/app-mgr-software.git))
+🔗 [API (Spring Boot)](https://github.com/ramon-lopes/estoque-api-backend) · [App Mobile (Flutter)](https://github.com/ramon-lopes/app-mgr-software)
 
 ---
 
