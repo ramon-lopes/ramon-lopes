@@ -1,6 +1,4 @@
-
 # Ramon 👋
-
 🎓 Estudante de Sistemas de Informação
 💻 Desenvolvedor Backend (Java · Spring Boot 3)
 📱 Experiência com Flutter
@@ -23,7 +21,7 @@ Desenvolvedor focado em backend, com experiência em APIs REST, integração com
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-🌱 **Atualmente aprendendo:** Docker · Testes com JUnit 5
+🌱 **Atualmente aprendendo:** Python · JavaScript
 
 ---
 
@@ -31,21 +29,15 @@ Desenvolvedor focado em backend, com experiência em APIs REST, integração com
 
 ### 📦 Sistema de Estoque em Tempo Real
 
-Controle de estoque com atualização em tempo real, integrando backend Java com app mobile Flutter. Permite cadastro de produtos, movimentações e visualização instantânea do estoque.
+Controle de estoque com atualização em tempo real, integrando uma API backend em Java com app mobile Flutter. Permite cadastro de produtos, movimentações e visualização instantânea do estoque.
 
-**Tecnologias:** Spring Boot 3 · MySQL · JPA/Hibernate · Flutter  
-🔗 [Repositório](https://github.com/ramon/seu-repo)
+**Tecnologias:** Spring Boot 3 · MySQL · JPA/Hibernate · Flutter
 
----
-
-## 📊 GitHub Stats
-
-![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramon-lopes&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-lopes&layout=compact)
+🔗 [API (Spring Boot)]([https://github.com/ramon-lopes/seu-repo-api](https://github.com/ramon-lopes/estoque-api-backend.git)) · [App Mobile (Flutter)]([https://github.com/ramon-lopes/seu-repo-app](https://github.com/ramon-lopes/app-mgr-software.git))
 
 ---
 
 ## 📫 Contato
 
-📧 seuemail@email.com  
+📧 seuemail@email.com
 💼 [LinkedIn](https://linkedin.com/in/ramon-lopes)
