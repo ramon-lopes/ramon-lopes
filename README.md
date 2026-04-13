@@ -1,4 +1,6 @@
-# Ramon de Almeida Lopes
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&locale=pt-BR&center=true&width=600&lines=Ol%C3%A1%2C+sou+o+Ramon!+%F0%9F%91%8B;Desenvolvedor+Backend+Java+%7C+Spring+Boot;Experiência+com+Flutter+%7C+MySQL;Buscando+estágio+ou+vaga+júnior+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+# Ramon 👋
 🎓 Técnico em Desenvolvimento de Sistemas (Colégio Técnico de Limeira · Unicamp)  
 🎓 Bacharelando em Sistemas de Informação (FHO | Fundação Hermínio Ometto)  
 💻 Desenvolvedor Backend (Java · Spring Boot)  
@@ -47,7 +49,13 @@ Controle de estoque com atualização em tempo real, integrando uma API backend 
 
 ---
 
+## 🔥 Consistência
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ramon-lopes&locale=pt_BR&hide_border=true)](https://git.io/streak-stats)
+
+---
+
 ## 📫 Contato
 
-📧 lopesramon723@gmail.com
+📧 lopesramon723@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/ramon-almeida-lopes)
