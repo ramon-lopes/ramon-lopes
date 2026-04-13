@@ -23,7 +23,7 @@ Desenvolvedor focado em backend, com experiência em APIs REST, integração com
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-🌱 **Atualmente aprendendo:** Docker · Testes com JUnit 5
+🌱 **Atualmente aprendendo:** Python
 
 ---
 
@@ -47,5 +47,5 @@ Controle de estoque com atualização em tempo real, integrando backend Java com
 
 ## 📫 Contato
 
-📧 seuemail@email.com  
-💼 [LinkedIn](https://linkedin.com/in/seu-usuario)
+📧 lopesramon723@gmail.com 
+💼 [LinkedIn](www.linkedin.com/in/ramon-almeida-lopes)
