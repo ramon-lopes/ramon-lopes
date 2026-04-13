@@ -33,19 +33,11 @@ Desenvolvedor focado em backend, com experiência em APIs REST, integração com
 
 Controle de estoque com atualização em tempo real, integrando backend Java com app mobile Flutter. Permite cadastro de produtos, movimentações e visualização instantânea do estoque.
 
-**Tecnologias:** Spring Boot 3 · MySQL · JPA/Hibernate · Flutter  
-🔗 [Repositório](https://github.com/ramon/seu-repo)
-
----
-
-## 📊 GitHub Stats
-
-![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact)
+**Tecnologias:** Spring Boot · MySQL · JPA/Hibernate · Flutter
 
 ---
 
 ## 📫 Contato
 
 📧 lopesramon723@gmail.com 
-💼 [LinkedIn](www.linkedin.com/in/ramon-almeida-lopes)
+💼 [LinkedIn]([www.linkedin.com/in/ramon-almeida-lopes](http://github.com/ramon-lopes))
