@@ -41,7 +41,7 @@ Controle de estoque com atualização em tempo real, integrando backend Java com
 ## 📊 GitHub Stats
 
 ![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramon-lopes&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-lopesE&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-lopes&layout=compact)
 
 ---
 
