@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&locale=pt-BR&center=true&width=600&lines=Ol%C3%A1%2C+sou+o+Ramon!+%F0%9F%91%8B;Desenvolvedor+Backend+Java+%7C+Spring+Boot;Experiência+com+Flutter+%7C+MySQL;)](https://git.io/typing-svg)
 
-# Ramon 👋
+# Ramon de Almeida Lopes
 🎓 Técnico em Desenvolvimento de Sistemas (Colégio Técnico de Limeira · Unicamp)  
 🎓 Bacharelando em Sistemas de Informação (FHO | Fundação Hermínio Ometto)  
 💻 Desenvolvedor Backend (Java · Spring Boot)  
