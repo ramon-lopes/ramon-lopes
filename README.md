@@ -39,5 +39,5 @@ Controle de estoque com atualização em tempo real, integrando uma API backend 
 
 ## 📫 Contato
 
-📧 seuemail@email.com
-💼 [LinkedIn](https://linkedin.com/in/ramon-lopes)
+📧 lopesramon723@gmail.com
+💼 [LinkedIn](https://linkedin.com/in/ramon-almeida-lopes)
