@@ -23,7 +23,7 @@ Desenvolvedor focado em backend, com experiência em APIs REST, integração com
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-🌱 **Atualmente aprendendo:** Python
+🌱 **Atualmente aprendendo:** Docker · Testes com JUnit 5
 
 ---
 
@@ -33,11 +33,19 @@ Desenvolvedor focado em backend, com experiência em APIs REST, integração com
 
 Controle de estoque com atualização em tempo real, integrando backend Java com app mobile Flutter. Permite cadastro de produtos, movimentações e visualização instantânea do estoque.
 
-**Tecnologias:** Spring Boot · MySQL · JPA/Hibernate · Flutter
+**Tecnologias:** Spring Boot 3 · MySQL · JPA/Hibernate · Flutter  
+🔗 [Repositório](https://github.com/ramon/seu-repo)
+
+---
+
+## 📊 GitHub Stats
+
+![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramon-lopes&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-lopesE&layout=compact)
 
 ---
 
 ## 📫 Contato
 
-📧 lopesramon723@gmail.com 
-💼 [LinkedIn]([www.linkedin.com/in/ramon-almeida-lopes](http://github.com/ramon-lopes))
+📧 seuemail@email.com  
+💼 [LinkedIn](https://linkedin.com/in/ramon-lopes)
