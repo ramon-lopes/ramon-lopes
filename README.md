@@ -1,55 +1,99 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&locale=pt-BR&center=true&width=600&lines=Ol%C3%A1%2C+sou+o+Ramon!+%F0%9F%91%8B;Desenvolvedor+Backend+Java+%7C+Spring+Boot;Experiência+com+Flutter+%7C+MySQL;)](https://git.io/typing-svg)
+ <div align="center">
 
-# Ramon de Almeida Lopes
-🎓 Técnico em Desenvolvimento de Sistemas (Colégio Técnico de Limeira · Unicamp)  
-🎓 Bacharelando em Sistemas de Informação (FHO | Fundação Hermínio Ometto)  
-💻 Desenvolvedor Backend (Java · Spring Boot)  
-📱 Experiência com Flutter
+# 👋 Olá, eu sou o Ramon!
 
----
+### Desenvolvedor Backend em formação | Java & Spring Boot
 
-## 🚀 Sobre mim
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=550&lines=Desenvolvimento+Backend+com+Java;Construindo+APIs+REST+com+Spring+Boot;Integra%C3%A7%C3%A3o+de+Sistemas+e+Banco+de+Dados)](https://git.io/typing-svg)
 
-Desenvolvedor focado em backend, com experiência em APIs REST, integração com banco de dados e desenvolvimento mobile com Flutter. Atuei no desenvolvimento de um Sistema de Estoque em Tempo Real, participando de todo o ciclo: levantamento de requisitos, modelagem, implementação e integração via API.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ramon-almeida-lopes)
+[![GitHub](https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-181717?style=for-the-badge&logo=github)](https://github.com/ramon-lopes)
 
-Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior**, com foco em aprendizado rápido, entrega consistente e evolução técnica contínua.
+</div>
 
 ---
 
-## 🧠 Tecnologias
+## 👨‍💻 Sobre mim
 
-**Uso prático:**
+Sou formado como **Técnico em Desenvolvimento de Sistemas pelo COTIL (UNICAMP)** e atualmente curso **Bacharelado em Sistemas de Informação na FHO**.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+Tenho foco em desenvolvimento backend, especialmente com Java e Spring Boot, e experiência com APIs REST, integração com bancos de dados e desenvolvimento mobile utilizando Flutter.
 
-**Contato acadêmico:**
+Participei do desenvolvimento de um Sistema de Gerenciamento de Estoque em Tempo Real, envolvendo desde o levantamento de requisitos e modelagem até a implementação e integração entre sistemas.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+Atualmente, busco minha primeira oportunidade profissional na área de Tecnologia da Informação, como **estagiário ou desenvolvedor júnior**, para aplicar meus conhecimentos e continuar evoluindo tecnicamente.
 
 ---
 
-## 📁 Projetos
+## 🛠️ Tecnologias e ferramentas
 
-### 📦 Sistema de Estoque em Tempo Real
+**Experiência prática**
 
-Controle de estoque com atualização em tempo real, integrando uma API backend em Java com app mobile Flutter. Participei de todo o ciclo do projeto: levantamento de requisitos, modelagem, implementação e integração via API, com backend conectado a banco de dados.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**Tecnologias:** Spring Boot · MySQL · JPA/Hibernate · Flutter
+**Conhecimentos acadêmicos**
 
-🔗 [API (Spring Boot)](https://github.com/ramon-lopes/estoque-api-backend) · [App Mobile (Flutter)](https://github.com/ramon-lopes/app-mgr-software)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ---
 
-## 📫 Contato
+## 🚀 Projetos em destaque
 
-📧 ramon.delopes@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/ramon-almeida-lopes)
+### 📦 Sistema de Gerenciamento de Estoque em Tempo Real
+
+Sistema desenvolvido para gerenciamento e acompanhamento de estoque, com integração entre uma API backend em Java e um aplicativo mobile desenvolvido em Flutter.
+
+O projeto envolveu levantamento de requisitos, modelagem, implementação, persistência de dados e integração entre as aplicações por meio de API REST.
+
+**Tecnologias:** Java · Spring Boot · MySQL · JPA/Hibernate · Flutter
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend — API REST</h4>
+      <p>Implementação das regras de negócio, endpoints REST e integração com banco de dados.</p>
+      <a href="https://github.com/ramon-lopes/estoque-api-backend">
+        <img src="https://img.shields.io/badge/Ver_c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 Aplicativo — Flutter</h4>
+      <p>Interface mobile para interação com o sistema e consumo dos serviços disponibilizados pela API.</p>
+      <a href="https://github.com/ramon-lopes/app-mgr-software">
+        <img src="https://img.shields.io/badge/Ver_c%C3%B3digo-02569B?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Formação acadêmica
+
+- **Bacharelado em Sistemas de Informação** — FHO | Fundação Hermínio Ometto
+- **Técnico em Desenvolvimento de Sistemas** — COTIL | UNICAMP
+
+---
+
+## 📫 Vamos conversar?
+
+Estou aberto a oportunidades, conexões e troca de conhecimentos na área de tecnologia.
+
+- 📧 **E-mail:** [ramon.delopes@gmail.com](mailto:ramon.delopes@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/ramon-almeida-lopes](https://linkedin.com/in/ramon-almeida-lopes)
+- 💻 **GitHub:** [github.com/ramon-lopes](https://github.com/ramon-lopes)
+
+<div align="center">
+
+*Obrigado pela visita! 🚀*
+
+</div>
